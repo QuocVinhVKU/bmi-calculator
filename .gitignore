@@ -102,6 +102,10 @@ DocProject/Help/html
 
 # Click-Once directory
 publish/
+Properties/
+.vs/
+*.config
+*.sln
 
 # Publish Web Output
 *.Publish.xml
