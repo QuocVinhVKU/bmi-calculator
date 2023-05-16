@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{53BDB50D-71F3-4ADF-8164-07CCF6793D22}</ProjectGuid>
+    <ProjectGuid>{727498FE-A561-49FC-94ED-5D77BB0FCEF4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>bmi_calculator</RootNamespace>
     <AssemblyName>bmi-calculator</AssemblyName>

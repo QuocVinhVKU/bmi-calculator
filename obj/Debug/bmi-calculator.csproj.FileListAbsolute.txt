@@ -1,7 +1,0 @@
-D:\Unity_CodeGym\Test\bmi-calculator\bin\Debug\bmi-calculator.exe.config
-D:\Unity_CodeGym\Test\bmi-calculator\bin\Debug\bmi-calculator.exe
-D:\Unity_CodeGym\Test\bmi-calculator\bin\Debug\bmi-calculator.pdb
-D:\Unity_CodeGym\Test\bmi-calculator\obj\Debug\bmi-calculator.csproj.AssemblyReference.cache
-D:\Unity_CodeGym\Test\bmi-calculator\obj\Debug\bmi-calculator.csproj.CoreCompileInputs.cache
-D:\Unity_CodeGym\Test\bmi-calculator\obj\Debug\bmi-calculator.exe
-D:\Unity_CodeGym\Test\bmi-calculator\obj\Debug\bmi-calculator.pdb
